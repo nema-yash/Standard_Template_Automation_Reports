@@ -1,4 +1,4 @@
-# Standard_Template_Automation_Reports
+# Standard_Template_Automation_Reports(STAR Automation)
 
 **Need for project**
 
